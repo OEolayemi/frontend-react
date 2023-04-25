@@ -159,7 +159,7 @@ class App extends React.Component {
 		);
 	}
 }
-
+// display code
 ReactDOM.render(
   <App />,
   document.getElementById('root')
